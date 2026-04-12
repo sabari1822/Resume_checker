@@ -1,0 +1,19 @@
+# PHP dependencies
+vendor/
+
+# Uploaded files (temp)
+uploads/*
+!uploads/.gitkeep
+
+# Composer binary (large file)
+composer.phar
+
+# XAMPP / OS files
+.DS_Store
+Thumbs.db
+
+# Preview/temp files
+preview_result.php
+
+# Logs
+*.log
